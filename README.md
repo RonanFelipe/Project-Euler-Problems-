@@ -1,3 +1,3 @@
 # Project Euler Problems
 Project Euler Problems in Python - Only for fun and practice on vacations  
-Trying one/two problem per day
+Trying one/two problems per day
